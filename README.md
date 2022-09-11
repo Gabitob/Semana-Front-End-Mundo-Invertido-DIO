@@ -7,7 +7,7 @@
 Site feito na Semana Front End do Mundo Invertido
 
 <div style="display: inline_block">
-  <img align="center" alt="Gif Mundo Invertido" src="https://cdn.discordapp.com/attachments/1006720932477403200/1012891654899896350/GifMundoInvertido2_1.gif" >
+  <img align="center" alt="Gif Mundo Invertido" src="https://media.discordapp.net/attachments/1006720932477403200/1018530757880315935/InvertAccel.gif" >
 </div>
 
 ## 💻 Tecnologias
